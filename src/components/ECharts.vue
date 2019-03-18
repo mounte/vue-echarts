@@ -37,6 +37,7 @@ const EVENTS = [
   'mapselected',
   'mapunselected',
   'axisareaselected',
+  'updateAxisPointer',
   'focusnodeadjacency',
   'unfocusnodeadjacency',
   'brush',
